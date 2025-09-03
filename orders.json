@@ -3,10 +3,10 @@
     "status": "Warten auf Zahlung",
     "statusClass": "pending",
     "sender": "Michael Höflmair, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
-    "receiver": "Ismail Chaouki, Heidestraat 77, 2660 Antwerpen, Belgien",
+    "receiver": "Ismail Chaouki, Heidestraat 77, 2040 Antwerpen, Belgien",
     "price": "4.900 €",
     "description": "Hersteller: Kawasaki<br>Typ: Ninja 650 <br>Fahrgestelnummer: ML5EX650MNDA43210<br>Erstzulassung: 04/2022<br>KM laut Vorbesitzer: 2.523 km <br>Leistung: 35 kW (48 PS)<br>Hubraum: 649 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
-    "address": "Ismail Chaouki<br>Heidestraat77<br>2660 Antwerpen<br>Belgien<br>Telefon: +32 468438560",
+    "address": "Ismail Chaouki<br>Heidestraat77<br>2040 Antwerpen<br>Belgien<br>Telefon: +32 468438560",
     "documents": [
       {
         "name": "Lieferschein",
@@ -35,7 +35,7 @@
     },
     "delivery": {
       "street": "Heidestraat 77",
-      "postal_code": "2660",
+      "postal_code": "2040",
       "city": "Antwerpen",
       "country": "Belgien"
     }
